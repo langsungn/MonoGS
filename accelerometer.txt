@@ -1,0 +1,3 @@
+# accelerometer data
+# file: 'rgb_data_tello_drone.bag'
+# timestamp ax ay az
